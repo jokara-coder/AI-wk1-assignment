@@ -10,3 +10,10 @@ Ask questions like:
    - Which crypto is trending?
    - What’s the most sustainable coin?
    - Should I buy Bitcoin?
+
+   - # Screenshot
+
+   - screenshot demo_chat.png
+
+   - # ⚠️ Disclaimer
+Crypto is volatile. This is a learning project — always do your own research!
